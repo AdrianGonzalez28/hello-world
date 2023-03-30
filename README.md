@@ -1,4 +1,4 @@
 # hello-world
 Hello to the CompSci World
 
-Hello everyone. Coding is sun an engaging. Looking forward to the joruney ahead. 
+Hello everyone. Coding is fun and engaging. Looking forward to the joruney ahead. 
